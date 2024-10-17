@@ -1,3 +1,10 @@
+## Half Diamond
+# *
+# **
+# ***
+# **
+# *
+
 n = int(input("Enter any number: "))
 col = 1
 

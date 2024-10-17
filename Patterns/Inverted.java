@@ -1,5 +1,15 @@
 package DSA.Patterns;
 
+/*
+
+*****
+****
+***
+**
+*
+
+*/
+
 public class Inverted {
 
     public static void invert(int n) {

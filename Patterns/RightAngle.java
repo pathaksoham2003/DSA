@@ -1,5 +1,16 @@
 package pythonDSA.Patterns;
 
+/*
+
+*
+**
+****
+*****
+******
+
+*/
+
+
 class RightAngle {
 
     public static void triangle(int n) {
