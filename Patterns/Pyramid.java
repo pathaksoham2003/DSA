@@ -1,5 +1,16 @@
 package DSA.Patterns;
 
+
+
+//    *
+//   ***
+//  *****
+// *******
+//  *****
+//   ***
+//    *
+
+
 public class Pyramid {
 
     public static void pyramid(int n) {
