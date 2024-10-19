@@ -1,4 +1,4 @@
-package pythonDSA.Patterns;
+package DSA.Patterns;
 
 /*
 
