@@ -133,5 +133,8 @@ public class AF__LLSingly {
         list.display();
         System.out.println(list.delete(1));
         list.display();
+
+        AF__LLSingly second = new AF__LLSingly();
+        
     }
 }
