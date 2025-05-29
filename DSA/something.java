@@ -1,4 +1,4 @@
-package DSA;
+package DSA.DSA;
 
 public class something {
 

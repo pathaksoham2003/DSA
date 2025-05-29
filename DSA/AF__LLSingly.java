@@ -1,4 +1,4 @@
-package DSA;
+package DSA.DSA;
 
 public class AF__LLSingly {
     Node head;

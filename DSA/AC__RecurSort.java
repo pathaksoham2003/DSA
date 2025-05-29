@@ -1,4 +1,4 @@
-package DSA;
+package DSA.DSA;
 import java.util.Arrays;
 public class AC__RecurSort {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package DSA;
+package DSA.DSA;
 public class AA__Search {
     public static void main(String[] args) {
         int[] ar = {1, 2, 5, 4, 3, 6, 12};

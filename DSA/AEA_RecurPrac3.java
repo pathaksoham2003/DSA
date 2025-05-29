@@ -1,4 +1,4 @@
-package DSA;
+package DSA.DSA;
 // Google Questions
 public class AEA_RecurPrac3 {
 

@@ -1,4 +1,4 @@
-package DSA;
+package DSA.DSA;
     public class AG__LLDoubly {
         Node head;
         public void insertFirst(int val){
