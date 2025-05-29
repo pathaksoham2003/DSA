@@ -1,4 +1,4 @@
-package DSA;
+package DSA.DSA;
 
 public class AL__DynamicStack extends AJ__CustomStack {
 

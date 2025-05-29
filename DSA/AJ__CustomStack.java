@@ -1,4 +1,5 @@
-package DSA;
+package DSA.DSA;
+
 public class AJ__CustomStack {
     protected static int[] data;
     private static int DEFAULT_SIZE = 10;
